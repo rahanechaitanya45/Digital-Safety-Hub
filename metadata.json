@@ -1,0 +1,6 @@
+{
+  "name": "Digital Safety Hub",
+  "description": "Think Before You Tap. An interactive educational platform on smartphone misuse, AI scams, online fraud prevention, and digital wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
